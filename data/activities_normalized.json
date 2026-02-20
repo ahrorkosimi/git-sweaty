@@ -39063,5 +39063,18 @@
     "start_date_local": "2026-02-19T17:19:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-02-20",
+    "distance": 15013.0,
+    "elevation_gain": 23.0,
+    "id": "17456807122",
+    "moving_time": 4469.0,
+    "name": "15K - Fri 20.02.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-20T05:40:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
