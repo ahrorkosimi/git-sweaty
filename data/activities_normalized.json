@@ -39076,5 +39076,18 @@
     "start_date_local": "2026-02-20T05:40:56Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-02-21",
+    "distance": 5015.1,
+    "elevation_gain": 2.0,
+    "id": "17467295415",
+    "moving_time": 2057.0,
+    "name": "5K - Sat 21.02.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-21T07:17:39Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
