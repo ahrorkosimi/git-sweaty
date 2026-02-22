@@ -27062,6 +27062,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17467295415",
       "year": 2026
+    },
+    {
+      "date": "2026-02-22",
+      "hour": 9,
+      "name": "7K - Sun 22.02.2026",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/17480362599",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51449,11 +51458,20 @@
           "distance": 7138.0,
           "elevation_gain": 332.0,
           "moving_time": 6260.0
+        },
+        "2026-02-22": {
+          "activity_ids": [
+            "17480362599"
+          ],
+          "count": 1,
+          "distance": 7086.1,
+          "elevation_gain": 381.0,
+          "moving_time": 5817.0
         }
       }
     }
   },
-  "generated_at": "2026-02-21T15:16:21.881556+00:00",
+  "generated_at": "2026-02-22T15:16:45.762059+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",

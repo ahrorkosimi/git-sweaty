@@ -39089,5 +39089,18 @@
     "start_date_local": "2026-02-21T07:17:39Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-02-22",
+    "distance": 7086.1,
+    "elevation_gain": 381.0,
+    "id": "17480362599",
+    "moving_time": 5817.0,
+    "name": "7K - Sun 22.02.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-02-22T09:27:55Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
