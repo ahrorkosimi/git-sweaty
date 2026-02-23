@@ -39102,5 +39102,31 @@
     "start_date_local": "2026-02-22T09:27:55Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-02-23",
+    "distance": 36190.6,
+    "elevation_gain": 233.0,
+    "id": "17490116124",
+    "moving_time": 9714.0,
+    "name": "36K - Mon 23.02.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-23T04:22:06Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-23",
+    "distance": 12426.0,
+    "elevation_gain": 87.0,
+    "id": "17493041947",
+    "moving_time": 2214.0,
+    "name": "12K \ud83d\udeb4\u200d\u2642\ufe0fcommute",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-02-23T15:44:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
