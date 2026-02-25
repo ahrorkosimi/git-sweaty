@@ -27107,6 +27107,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17505467909",
       "year": 2026
+    },
+    {
+      "date": "2026-02-25",
+      "hour": 6,
+      "name": "15K - Wed 25.02.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17513343118",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-25",
+      "hour": 15,
+      "name": "9K \ud83d\udeb4\u200d\u2642\ufe0f commute",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17516539619",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50962,6 +50980,15 @@
           "distance": 12426.0,
           "elevation_gain": 87.0,
           "moving_time": 2214.0
+        },
+        "2026-02-25": {
+          "activity_ids": [
+            "17516539619"
+          ],
+          "count": 1,
+          "distance": 9265.9,
+          "elevation_gain": 77.0,
+          "moving_time": 1627.0
         }
       },
       "Run": {
@@ -51430,6 +51457,15 @@
           "distance": 11726.6,
           "elevation_gain": 43.0,
           "moving_time": 4182.0
+        },
+        "2026-02-25": {
+          "activity_ids": [
+            "17513343118"
+          ],
+          "count": 1,
+          "distance": 15066.4,
+          "elevation_gain": 99.0,
+          "moving_time": 4595.0
         }
       },
       "TrailRun": {
@@ -51535,7 +51571,7 @@
       }
     }
   },
-  "generated_at": "2026-02-24T15:46:31.433080+00:00",
+  "generated_at": "2026-02-25T15:52:53.326161+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
