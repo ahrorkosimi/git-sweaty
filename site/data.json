@@ -27125,6 +27125,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17516539619",
       "year": 2026
+    },
+    {
+      "date": "2026-02-26",
+      "hour": 6,
+      "name": "21K - Thu 26.02.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17525776485",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-26",
+      "hour": 14,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17528789180",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-26",
+      "hour": 17,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17529821493",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50989,6 +51016,15 @@
           "distance": 9265.9,
           "elevation_gain": 77.0,
           "moving_time": 1627.0
+        },
+        "2026-02-26": {
+          "activity_ids": [
+            "17528789180"
+          ],
+          "count": 1,
+          "distance": 22246.6,
+          "elevation_gain": 157.0,
+          "moving_time": 3969.0
         }
       },
       "Run": {
@@ -51466,6 +51502,16 @@
           "distance": 15066.4,
           "elevation_gain": 99.0,
           "moving_time": 4595.0
+        },
+        "2026-02-26": {
+          "activity_ids": [
+            "17525776485",
+            "17529821493"
+          ],
+          "count": 2,
+          "distance": 26546.9,
+          "elevation_gain": 118.0,
+          "moving_time": 9267.0
         }
       },
       "TrailRun": {
@@ -51571,7 +51617,7 @@
       }
     }
   },
-  "generated_at": "2026-02-25T15:52:53.326161+00:00",
+  "generated_at": "2026-02-26T15:44:23.427475+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",

@@ -39180,5 +39180,44 @@
     "start_date_local": "2026-02-25T15:53:59Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-02-26",
+    "distance": 21226.3,
+    "elevation_gain": 116.0,
+    "id": "17525776485",
+    "moving_time": 6845.0,
+    "name": "21K - Thu 26.02.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-26T06:05:32Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-26",
+    "distance": 22246.6,
+    "elevation_gain": 157.0,
+    "id": "17528789180",
+    "moving_time": 3969.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-02-26T14:55:09Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-26",
+    "distance": 5320.6,
+    "elevation_gain": 2.0,
+    "id": "17529821493",
+    "moving_time": 2422.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-26T17:34:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
