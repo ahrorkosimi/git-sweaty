@@ -39200,7 +39200,7 @@
     "elevation_gain": 157.0,
     "id": "17528789180",
     "moving_time": 3969.0,
-    "name": "Afternoon Ride",
+    "name": "22K \ud83d\udeb4\u200d\u2642\ufe0f commute",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-02-26T14:55:09Z",
@@ -39213,11 +39213,37 @@
     "elevation_gain": 2.0,
     "id": "17529821493",
     "moving_time": 2422.0,
-    "name": "Afternoon Run",
+    "name": "5K - Thu 26.02.2026",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-02-26T17:34:00Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-27",
+    "distance": 15010.8,
+    "elevation_gain": 84.0,
+    "id": "17537059502",
+    "moving_time": 4520.0,
+    "name": "15K - Fri 27.02.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-27T06:02:50Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-27",
+    "distance": 18540.4,
+    "elevation_gain": 164.0,
+    "id": "17538236584",
+    "moving_time": 3288.0,
+    "name": "18K\ud83d\udeb4\u200d\u2642\ufe0fcommute",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-02-27T11:02:32Z",
+    "type": "Ride",
     "year": 2026
   }
 ]

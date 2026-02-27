@@ -27138,7 +27138,7 @@
     {
       "date": "2026-02-26",
       "hour": 14,
-      "name": "Afternoon Ride",
+      "name": "22K \ud83d\udeb4\u200d\u2642\ufe0f commute",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/17528789180",
@@ -27147,10 +27147,28 @@
     {
       "date": "2026-02-26",
       "hour": 17,
-      "name": "Afternoon Run",
+      "name": "5K - Thu 26.02.2026",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/17529821493",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-27",
+      "hour": 6,
+      "name": "15K - Fri 27.02.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17537059502",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-27",
+      "hour": 11,
+      "name": "18K\ud83d\udeb4\u200d\u2642\ufe0fcommute",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17538236584",
       "year": 2026
     }
   ],
@@ -51025,6 +51043,15 @@
           "distance": 22246.6,
           "elevation_gain": 157.0,
           "moving_time": 3969.0
+        },
+        "2026-02-27": {
+          "activity_ids": [
+            "17538236584"
+          ],
+          "count": 1,
+          "distance": 18540.4,
+          "elevation_gain": 164.0,
+          "moving_time": 3288.0
         }
       },
       "Run": {
@@ -51512,6 +51539,15 @@
           "distance": 26546.9,
           "elevation_gain": 118.0,
           "moving_time": 9267.0
+        },
+        "2026-02-27": {
+          "activity_ids": [
+            "17537059502"
+          ],
+          "count": 1,
+          "distance": 15010.8,
+          "elevation_gain": 84.0,
+          "moving_time": 4520.0
         }
       },
       "TrailRun": {
@@ -51617,7 +51653,7 @@
       }
     }
   },
-  "generated_at": "2026-02-26T15:44:23.427475+00:00",
+  "generated_at": "2026-02-27T15:30:47.945035+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
