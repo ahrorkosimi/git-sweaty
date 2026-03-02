@@ -39310,5 +39310,18 @@
     "start_date_local": "2026-03-01T10:19:16Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-03-02",
+    "distance": 30662.2,
+    "elevation_gain": 429.0,
+    "id": "17572041222",
+    "moving_time": 8701.0,
+    "name": "30K - Mon 02.03.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-02T05:02:46Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
