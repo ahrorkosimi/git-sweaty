@@ -39323,5 +39323,31 @@
     "start_date_local": "2026-03-02T05:02:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-03",
+    "distance": 15009.0,
+    "elevation_gain": 27.0,
+    "id": "17583125582",
+    "moving_time": 4366.0,
+    "name": "15K - Tue 03.03.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-03T06:04:46Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-03",
+    "distance": 5099.0,
+    "elevation_gain": 0.0,
+    "id": "17587534999",
+    "moving_time": 2241.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-03T17:21:30Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
