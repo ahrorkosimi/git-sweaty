@@ -39343,11 +39343,37 @@
     "elevation_gain": 0.0,
     "id": "17587534999",
     "moving_time": 2241.0,
-    "name": "Afternoon Run",
+    "name": "5K - Tue 03.03.2026",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-03-03T17:21:30Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-04",
+    "distance": 15246.3,
+    "elevation_gain": 59.0,
+    "id": "17596207782",
+    "moving_time": 4549.0,
+    "name": "15K - Wed 04.03.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-04T06:13:03Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-04",
+    "distance": 22009.4,
+    "elevation_gain": 99.0,
+    "id": "17599598950",
+    "moving_time": 3468.0,
+    "name": "22K \ud83d\udeb4\u200d\u2642\ufe0f commute",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-04T10:35:19Z",
+    "type": "Ride",
     "year": 2026
   }
 ]
