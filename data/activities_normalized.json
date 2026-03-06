@@ -39401,5 +39401,31 @@
     "start_date_local": "2026-03-05T17:04:52Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-06",
+    "distance": 16015.7,
+    "elevation_gain": 90.0,
+    "id": "17620368770",
+    "moving_time": 4713.0,
+    "name": "16K - Fri 06.03.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-06T06:19:01Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-06",
+    "distance": 20022.2,
+    "elevation_gain": 117.0,
+    "id": "17621976425",
+    "moving_time": 3333.0,
+    "name": "20K \ud83d\udeb4\u200d\u2642\ufe0f commute",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-06T11:38:18Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
