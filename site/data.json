@@ -27300,10 +27300,19 @@
     {
       "date": "2026-03-07",
       "hour": 7,
-      "name": "Morning Run",
+      "name": "7K - Sat 07.03.2026",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/17631065208",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-08",
+      "hour": 7,
+      "name": "5K - Sun 08.03.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17642989509",
       "year": 2026
     }
   ],
@@ -51785,6 +51794,15 @@
           "distance": 7383.9,
           "elevation_gain": 19.0,
           "moving_time": 3099.0
+        },
+        "2026-03-08": {
+          "activity_ids": [
+            "17642989509"
+          ],
+          "count": 1,
+          "distance": 5223.0,
+          "elevation_gain": 24.0,
+          "moving_time": 2210.0
         }
       },
       "TrailRun": {
@@ -51899,7 +51917,7 @@
       }
     }
   },
-  "generated_at": "2026-03-07T15:14:21.367454+00:00",
+  "generated_at": "2026-03-08T15:15:25.044771+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
