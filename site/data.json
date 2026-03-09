@@ -27314,6 +27314,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17642989509",
       "year": 2026
+    },
+    {
+      "date": "2026-03-09",
+      "hour": 3,
+      "name": "30K - Mon 09.03.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17655370685",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-09",
+      "hour": 10,
+      "name": "10K - Mon 09.03.2026",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/17658552155",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51803,6 +51821,15 @@
           "distance": 5223.0,
           "elevation_gain": 24.0,
           "moving_time": 2210.0
+        },
+        "2026-03-09": {
+          "activity_ids": [
+            "17655370685"
+          ],
+          "count": 1,
+          "distance": 30308.1,
+          "elevation_gain": 448.0,
+          "moving_time": 8462.0
         }
       },
       "TrailRun": {
@@ -51913,11 +51940,20 @@
           "distance": 3086.0,
           "elevation_gain": 220.0,
           "moving_time": 21495.0
+        },
+        "2026-03-09": {
+          "activity_ids": [
+            "17658552155"
+          ],
+          "count": 1,
+          "distance": 10007.7,
+          "elevation_gain": 369.0,
+          "moving_time": 18763.0
         }
       }
     }
   },
-  "generated_at": "2026-03-08T15:15:25.044771+00:00",
+  "generated_at": "2026-03-09T15:49:00.025820+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
