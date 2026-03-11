@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T17:33:51.497739+00:00",
+  "generated_at": "2026-03-11T17:39:45.793018+00:00",
   "years": {
     "2017": {
       "Run": {
@@ -1792,17 +1792,6 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3935.0
-        }
-      },
-      "Rowing": {
-        "2019-01-26": {
-          "activity_ids": [
-            "2104095310"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 1445.0
         }
       },
       "Run": {
@@ -5486,13 +5475,21 @@
         },
         "2020-11-02": {
           "activity_ids": [
-            "4276618021",
-            "8183337224"
+            "4276618021"
           ],
-          "count": 2,
-          "distance": 27359.5,
+          "count": 1,
+          "distance": 15359.5,
           "elevation_gain": 129.6,
-          "moving_time": 8401.0
+          "moving_time": 4801.0
+        },
+        "2020-11-03": {
+          "activity_ids": [
+            "17687135330"
+          ],
+          "count": 1,
+          "distance": 12538.6,
+          "elevation_gain": 164.9,
+          "moving_time": 4774.0
         },
         "2020-11-04": {
           "activity_ids": [

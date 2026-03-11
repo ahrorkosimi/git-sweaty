@@ -2964,19 +2964,6 @@
     "year": 2019
   },
   {
-    "date": "2019-01-26",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "2104095310",
-    "moving_time": 1445.0,
-    "name": "Rowing",
-    "raw_activity_type": "Rowing",
-    "raw_type": "Rowing",
-    "start_date_local": "2019-01-26T13:47:19Z",
-    "type": "Rowing",
-    "year": 2019
-  },
-  {
     "date": "2019-01-27",
     "distance": 11404.5,
     "elevation_gain": 135.9,
@@ -8528,15 +8515,15 @@
     "year": 2020
   },
   {
-    "date": "2020-11-02",
-    "distance": 12000.0,
-    "elevation_gain": 0.0,
-    "id": "8183337224",
-    "moving_time": 3600.0,
+    "date": "2020-11-03",
+    "distance": 12538.6,
+    "elevation_gain": 164.9,
+    "id": "17687135330",
+    "moving_time": 4774.0,
     "name": "12K - Tue 03.11.2020",
     "raw_activity_type": "Run",
     "raw_type": "Run",
-    "start_date_local": "2020-11-02T06:00:00Z",
+    "start_date_local": "2020-11-03T19:12:28Z",
     "type": "Run",
     "year": 2020
   },
