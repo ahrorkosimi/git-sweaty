@@ -39544,5 +39544,31 @@
     "start_date_local": "2026-03-13T06:01:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 7006.0,
+    "elevation_gain": 23.0,
+    "id": "17714607590",
+    "moving_time": 2898.0,
+    "name": "7K - Sat 14.03.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-14T07:11:25Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 11510.0,
+    "elevation_gain": 477.0,
+    "id": "17718666787",
+    "moving_time": 6423.0,
+    "name": "11K - Sat 14.03.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-03-14T12:26:36Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
