@@ -27395,6 +27395,24 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/17718666787",
       "year": 2026
+    },
+    {
+      "date": "2026-03-15",
+      "hour": 11,
+      "name": "8K - Sun 15.03.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17726884159",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-15",
+      "hour": 11,
+      "name": "9K - Sun 15.03.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17726884188",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51945,6 +51963,16 @@
           "distance": 7006.0,
           "elevation_gain": 23.0,
           "moving_time": 2898.0
+        },
+        "2026-03-15": {
+          "activity_ids": [
+            "17726884159",
+            "17726884188"
+          ],
+          "count": 2,
+          "distance": 17723.3,
+          "elevation_gain": 32.0,
+          "moving_time": 5054.0
         }
       },
       "TrailRun": {
@@ -52077,7 +52105,7 @@
       }
     }
   },
-  "generated_at": "2026-03-14T15:18:52.553468+00:00",
+  "generated_at": "2026-03-15T15:20:48.983756+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
