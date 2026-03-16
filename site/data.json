@@ -27413,6 +27413,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17726884188",
       "year": 2026
+    },
+    {
+      "date": "2026-03-16",
+      "hour": 5,
+      "name": "21K - Mon 16.03.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17738270381",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51973,6 +51982,15 @@
           "distance": 17723.3,
           "elevation_gain": 32.0,
           "moving_time": 5054.0
+        },
+        "2026-03-16": {
+          "activity_ids": [
+            "17738270381"
+          ],
+          "count": 1,
+          "distance": 21396.5,
+          "elevation_gain": 307.0,
+          "moving_time": 5713.0
         }
       },
       "TrailRun": {
@@ -52105,7 +52123,7 @@
       }
     }
   },
-  "generated_at": "2026-03-15T15:20:48.983756+00:00",
+  "generated_at": "2026-03-16T03:48:34.727887+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
