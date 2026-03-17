@@ -39635,5 +39635,18 @@
     "start_date_local": "2026-03-17T06:09:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 5017.0,
+    "elevation_gain": 5.0,
+    "id": "17753283988",
+    "moving_time": 2251.0,
+    "name": "5K - Tue 17.03.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-17T16:45:40Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
