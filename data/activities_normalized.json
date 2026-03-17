@@ -39622,5 +39622,18 @@
     "start_date_local": "2026-03-16T10:33:26Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 15299.2,
+    "elevation_gain": 64.0,
+    "id": "17749253866",
+    "moving_time": 4395.0,
+    "name": "15K - Tue 17.03.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-17T06:09:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
