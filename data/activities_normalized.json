@@ -39765,5 +39765,18 @@
     "start_date_local": "2026-03-22T07:20:24Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 100252.0,
+    "elevation_gain": 662.0,
+    "id": "17827337591",
+    "moving_time": 40893.0,
+    "name": "100K - Mon 23.03.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-23T06:00:34Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

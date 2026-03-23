@@ -27530,6 +27530,15 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/17810604384",
       "year": 2026
+    },
+    {
+      "date": "2026-03-23",
+      "hour": 6,
+      "name": "100K - Mon 23.03.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17827337591",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52165,6 +52174,15 @@
           "distance": 11392.6,
           "elevation_gain": 63.0,
           "moving_time": 4769.0
+        },
+        "2026-03-23": {
+          "activity_ids": [
+            "17827337591"
+          ],
+          "count": 1,
+          "distance": 100252.0,
+          "elevation_gain": 662.0,
+          "moving_time": 40893.0
         }
       },
       "TrailRun": {
@@ -52317,7 +52335,7 @@
       }
     }
   },
-  "generated_at": "2026-03-23T08:03:01.678782+00:00",
+  "generated_at": "2026-03-23T15:52:45.408583+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
