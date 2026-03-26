@@ -39793,12 +39793,38 @@
     "year": 2026
   },
   {
+    "date": "2026-03-24",
+    "distance": 3064.6,
+    "elevation_gain": 11.4,
+    "id": "17860997212",
+    "moving_time": 1540.0,
+    "name": "3K - Tue 24.03.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-03-24T17:30:21Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
     "date": "2026-03-25",
     "distance": 3031.0,
     "elevation_gain": 142.0,
     "id": "17850346286",
     "moving_time": 2596.0,
     "name": "Morning Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-03-25T10:32:57Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 3031.0,
+    "elevation_gain": 142.0,
+    "id": "17861129014",
+    "moving_time": 2596.0,
+    "name": "Trail Running",
     "raw_activity_type": "Run",
     "raw_type": "TrailRun",
     "start_date_local": "2026-03-25T10:32:57Z",
