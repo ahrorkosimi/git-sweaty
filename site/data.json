@@ -27593,6 +27593,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17872914464",
       "year": 2026
+    },
+    {
+      "date": "2026-03-27",
+      "hour": 14,
+      "name": "30K \ud83d\udeb4\ud83c\udffb\u200d\u2642\ufe0fwith Amir",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17876633046",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51565,6 +51574,15 @@
           "distance": 17147.0,
           "elevation_gain": 103.0,
           "moving_time": 3214.0
+        },
+        "2026-03-27": {
+          "activity_ids": [
+            "17876633046"
+          ],
+          "count": 1,
+          "distance": 30685.0,
+          "elevation_gain": 288.0,
+          "moving_time": 6293.0
         }
       },
       "Run": {
@@ -52437,7 +52455,7 @@
       }
     }
   },
-  "generated_at": "2026-03-27T08:00:37.437489+00:00",
+  "generated_at": "2026-03-27T15:42:32.321044+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",

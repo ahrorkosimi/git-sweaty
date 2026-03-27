@@ -39856,5 +39856,18 @@
     "start_date_local": "2026-03-27T07:00:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 30685.0,
+    "elevation_gain": 288.0,
+    "id": "17876633046",
+    "moving_time": 6293.0,
+    "name": "30K \ud83d\udeb4\ud83c\udffb\u200d\u2642\ufe0fwith Amir",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-27T14:35:49Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
