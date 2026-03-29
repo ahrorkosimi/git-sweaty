@@ -27611,6 +27611,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17883327335",
       "year": 2026
+    },
+    {
+      "date": "2026-03-29",
+      "hour": 4,
+      "name": "30K - Sun 29.03.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17895889835",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52321,6 +52330,15 @@
           "distance": 7711.0,
           "elevation_gain": 37.0,
           "moving_time": 2989.0
+        },
+        "2026-03-29": {
+          "activity_ids": [
+            "17895889835"
+          ],
+          "count": 1,
+          "distance": 30581.4,
+          "elevation_gain": 405.0,
+          "moving_time": 9841.0
         }
       },
       "TrailRun": {
@@ -52473,7 +52491,7 @@
       }
     }
   },
-  "generated_at": "2026-03-28T15:22:27.443208+00:00",
+  "generated_at": "2026-03-29T05:30:26.212512+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
