@@ -27656,6 +27656,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17920361429",
       "year": 2026
+    },
+    {
+      "date": "2026-03-31",
+      "hour": 9,
+      "name": "20K \ud83d\udeb4\u200d\u2642\ufe0f commute",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17924445592",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51646,6 +51655,15 @@
           "distance": 2345.0,
           "elevation_gain": 32.0,
           "moving_time": 817.0
+        },
+        "2026-03-31": {
+          "activity_ids": [
+            "17924445592"
+          ],
+          "count": 1,
+          "distance": 20796.1,
+          "elevation_gain": 149.0,
+          "moving_time": 4221.0
         }
       },
       "Run": {
@@ -52555,7 +52573,7 @@
       }
     }
   },
-  "generated_at": "2026-03-31T08:09:34.161275+00:00",
+  "generated_at": "2026-03-31T15:59:20.406129+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
