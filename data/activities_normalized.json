@@ -39928,11 +39928,24 @@
     "elevation_gain": 32.0,
     "id": "17912917622",
     "moving_time": 817.0,
-    "name": "Afternoon Ride",
+    "name": "2K\ud83d\udeb4\ud83c\udffb\u200d\u2642\ufe0fcommute",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-03-30T13:01:23Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 25276.8,
+    "elevation_gain": 213.0,
+    "id": "17920361429",
+    "moving_time": 6398.0,
+    "name": "25K - Tue 31.03.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-31T05:12:01Z",
+    "type": "Run",
     "year": 2026
   }
 ]
