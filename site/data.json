@@ -27683,6 +27683,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17937417625",
       "year": 2026
+    },
+    {
+      "date": "2026-04-02",
+      "hour": 6,
+      "name": "11K - Thu 02.04.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17945171263",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52457,6 +52466,15 @@
           "distance": 15690.8,
           "elevation_gain": 460.0,
           "moving_time": 5248.0
+        },
+        "2026-04-02": {
+          "activity_ids": [
+            "17945171263"
+          ],
+          "count": 1,
+          "distance": 11009.1,
+          "elevation_gain": 55.0,
+          "moving_time": 4727.0
         }
       },
       "TrailRun": {
@@ -52609,7 +52627,7 @@
       }
     }
   },
-  "generated_at": "2026-04-01T16:02:02.282733+00:00",
+  "generated_at": "2026-04-02T05:26:46.132900+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
