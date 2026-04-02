@@ -39999,5 +39999,31 @@
     "start_date_local": "2026-04-02T06:05:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 25111.0,
+    "elevation_gain": 125.0,
+    "id": "17948578925",
+    "moving_time": 5176.0,
+    "name": "25K\ud83d\udeb4\ud83c\udffb\u200d\u2642\ufe0fcommute",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-02T14:36:20Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 5023.0,
+    "elevation_gain": 2.0,
+    "id": "17949889910",
+    "moving_time": 2469.0,
+    "name": "5K - Thu 02.04.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-02T17:39:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
