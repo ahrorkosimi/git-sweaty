@@ -40045,11 +40045,37 @@
     "elevation_gain": 99.0,
     "id": "17963532466",
     "moving_time": 3411.0,
-    "name": "Afternoon Ride",
+    "name": "17K\ud83d\udeb4\ud83c\udffb\u200d\u2642\ufe0fcommute",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-04-03T13:52:46Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 25756.3,
+    "elevation_gain": 362.0,
+    "id": "17968818076",
+    "moving_time": 7334.0,
+    "name": "25K - Sat 04.04.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-04T03:12:09Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 5108.5,
+    "elevation_gain": 14.0,
+    "id": "17969371972",
+    "moving_time": 2332.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-04T07:00:02Z",
+    "type": "Run",
     "year": 2026
   }
 ]
