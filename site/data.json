@@ -27741,7 +27741,7 @@
     {
       "date": "2026-04-04",
       "hour": 7,
-      "name": "Morning Run",
+      "name": "5K - Sat 04.04.2026",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/17969371972",
@@ -52719,7 +52719,7 @@
       }
     }
   },
-  "generated_at": "2026-04-04T05:16:50.153531+00:00",
+  "generated_at": "2026-04-04T07:49:20.549074+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
