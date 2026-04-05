@@ -40077,5 +40077,18 @@
     "start_date_local": "2026-04-04T07:00:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 4092.6,
+    "elevation_gain": 445.0,
+    "id": "17984951094",
+    "moving_time": 6427.0,
+    "name": "4K - Sun 05.04.2026",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-04-05T09:22:16Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
