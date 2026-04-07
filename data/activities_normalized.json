@@ -40129,5 +40129,18 @@
     "start_date_local": "2026-04-07T03:51:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 5298.0,
+    "elevation_gain": 9.0,
+    "id": "18012673680",
+    "moving_time": 2322.0,
+    "name": "5K - Tue 07.04.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-07T17:01:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

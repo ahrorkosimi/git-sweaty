@@ -27782,6 +27782,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18008393902",
       "year": 2026
+    },
+    {
+      "date": "2026-04-07",
+      "hour": 17,
+      "name": "5K - Tue 07.04.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18012673680",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52633,12 +52642,13 @@
         },
         "2026-04-07": {
           "activity_ids": [
-            "18008393902"
+            "18008393902",
+            "18012673680"
           ],
-          "count": 1,
-          "distance": 42263.0,
-          "elevation_gain": 215.0,
-          "moving_time": 17576.0
+          "count": 2,
+          "distance": 47561.0,
+          "elevation_gain": 224.0,
+          "moving_time": 19898.0
         }
       },
       "TrailRun": {
@@ -52791,7 +52801,7 @@
       }
     }
   },
-  "generated_at": "2026-04-07T08:13:47.099916+00:00",
+  "generated_at": "2026-04-07T16:04:58.323310+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
