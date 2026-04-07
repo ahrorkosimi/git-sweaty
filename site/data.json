@@ -27773,6 +27773,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17998287426",
       "year": 2026
+    },
+    {
+      "date": "2026-04-07",
+      "hour": 3,
+      "name": "42K - Tue 07.04.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18008393902",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52621,6 +52630,15 @@
           "distance": 19014.0,
           "elevation_gain": 273.0,
           "moving_time": 5835.0
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "18008393902"
+          ],
+          "count": 1,
+          "distance": 42263.0,
+          "elevation_gain": 215.0,
+          "moving_time": 17576.0
         }
       },
       "TrailRun": {
@@ -52773,7 +52791,7 @@
       }
     }
   },
-  "generated_at": "2026-04-06T15:37:58.606769+00:00",
+  "generated_at": "2026-04-07T05:31:53.313019+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
