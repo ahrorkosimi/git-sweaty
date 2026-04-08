@@ -27791,6 +27791,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18012673680",
       "year": 2026
+    },
+    {
+      "date": "2026-04-08",
+      "hour": 5,
+      "name": "22K - Wed 08.04.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18022667161",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52649,6 +52658,15 @@
           "distance": 47561.0,
           "elevation_gain": 224.0,
           "moving_time": 19898.0
+        },
+        "2026-04-08": {
+          "activity_ids": [
+            "18022667161"
+          ],
+          "count": 1,
+          "distance": 22213.6,
+          "elevation_gain": 310.0,
+          "moving_time": 6479.0
         }
       },
       "TrailRun": {
@@ -52801,7 +52819,7 @@
       }
     }
   },
-  "generated_at": "2026-04-08T05:42:26.367885+00:00",
+  "generated_at": "2026-04-08T08:13:50.037428+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
