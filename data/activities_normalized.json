@@ -40233,5 +40233,18 @@
     "start_date_local": "2026-04-11T14:25:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 17073.2,
+    "elevation_gain": 74.0,
+    "id": "18073442300",
+    "moving_time": 4786.0,
+    "name": "17K - Sun 12.04.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-12T05:21:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
