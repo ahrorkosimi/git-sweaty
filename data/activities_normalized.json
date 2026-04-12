@@ -40246,5 +40246,18 @@
     "start_date_local": "2026-04-12T05:21:07Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 962.0,
+    "elevation_gain": 170.0,
+    "id": "18081338417",
+    "moving_time": 1752.0,
+    "name": "Mountaineering and snow navigation training",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-04-12T10:39:57Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]

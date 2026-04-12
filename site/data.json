@@ -27863,6 +27863,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18073442300",
       "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 10,
+      "name": "Mountaineering and snow navigation training",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18081338417",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51607,6 +51616,15 @@
           "distance": 4092.6,
           "elevation_gain": 445.0,
           "moving_time": 6427.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "18081338417"
+          ],
+          "count": 1,
+          "distance": 962.0,
+          "elevation_gain": 170.0,
+          "moving_time": 1752.0
         }
       },
       "Ride": {
@@ -52937,7 +52955,7 @@
       }
     }
   },
-  "generated_at": "2026-04-12T08:03:39.424959+00:00",
+  "generated_at": "2026-04-12T15:28:10.631581+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
