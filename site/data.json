@@ -27908,6 +27908,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18113479678",
       "year": 2026
+    },
+    {
+      "date": "2026-04-16",
+      "hour": 16,
+      "name": "8K - Thu 16.04.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18131295406",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52875,6 +52884,15 @@
           "distance": 12097.2,
           "elevation_gain": 52.0,
           "moving_time": 3563.0
+        },
+        "2026-04-16": {
+          "activity_ids": [
+            "18131295406"
+          ],
+          "count": 1,
+          "distance": 8014.0,
+          "elevation_gain": 11.0,
+          "moving_time": 2764.0
         }
       },
       "TrailRun": {
@@ -53027,7 +53045,7 @@
       }
     }
   },
-  "generated_at": "2026-04-16T08:27:22.642326+00:00",
+  "generated_at": "2026-04-16T16:16:21.370872+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
