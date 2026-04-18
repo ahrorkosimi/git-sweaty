@@ -40337,5 +40337,31 @@
     "start_date_local": "2026-04-17T05:56:15Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 21168.3,
+    "elevation_gain": 88.0,
+    "id": "18152393229",
+    "moving_time": 6439.0,
+    "name": "21K - Sat 18.04.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-18T05:12:51Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 5032.1,
+    "elevation_gain": 32.0,
+    "id": "18152757352",
+    "moving_time": 1981.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-18T09:09:53Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
