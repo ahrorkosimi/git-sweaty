@@ -27944,6 +27944,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18152757352",
       "year": 2026
+    },
+    {
+      "date": "2026-04-19",
+      "hour": 16,
+      "name": "12K - Sun 19.04.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18171530739",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52939,6 +52948,15 @@
           "distance": 26200.4,
           "elevation_gain": 120.0,
           "moving_time": 8420.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18171530739"
+          ],
+          "count": 1,
+          "distance": 12176.0,
+          "elevation_gain": 36.0,
+          "moving_time": 3844.0
         }
       },
       "TrailRun": {
@@ -53091,7 +53109,7 @@
       }
     }
   },
-  "generated_at": "2026-04-19T08:06:53.694884+00:00",
+  "generated_at": "2026-04-19T15:29:55.370847+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
