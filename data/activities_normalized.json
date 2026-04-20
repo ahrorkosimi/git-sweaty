@@ -40376,5 +40376,18 @@
     "start_date_local": "2026-04-19T16:15:43Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 16078.1,
+    "elevation_gain": 93.0,
+    "id": "18179810907",
+    "moving_time": 4730.0,
+    "name": "16K - Mon 20.04.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-20T05:11:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
