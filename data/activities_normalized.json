@@ -39453,5 +39453,31 @@
     "start_date_local": "2026-04-24T05:40:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 34601.0,
+    "elevation_gain": 1779.0,
+    "id": "18258332944",
+    "moving_time": 24102.0,
+    "name": "34K\u00a0-\u00a0Sat\u00a025.04.2026",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-04-25T07:23:20Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 17376.0,
+    "elevation_gain": 83.0,
+    "id": "18259969244",
+    "moving_time": 5313.0,
+    "name": "17K\u00a0-\u00a0Sun\u00a026.04.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-26T07:04:43Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

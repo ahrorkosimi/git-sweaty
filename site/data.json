@@ -27314,6 +27314,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18233920561",
       "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 7,
+      "name": "34K\u00a0-\u00a0Sat\u00a025.04.2026",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18258332944",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-26",
+      "hour": 7,
+      "name": "17K\u00a0-\u00a0Sun\u00a026.04.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18259969244",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51034,6 +51052,17 @@
       }
     },
     "2026": {
+      "Hike": {
+        "2026-04-25": {
+          "activity_ids": [
+            "18258332944"
+          ],
+          "count": 1,
+          "distance": 34601.0,
+          "elevation_gain": 1779.0,
+          "moving_time": 24102.0
+        }
+      },
       "Ride": {
         "2026-01-07": {
           "activity_ids": [
@@ -51803,6 +51832,15 @@
           "distance": 18495.7,
           "elevation_gain": 53.0,
           "moving_time": 5190.0
+        },
+        "2026-04-26": {
+          "activity_ids": [
+            "18259969244"
+          ],
+          "count": 1,
+          "distance": 17376.0,
+          "elevation_gain": 83.0,
+          "moving_time": 5313.0
         }
       },
       "TrailRun": {
@@ -51917,7 +51955,7 @@
       }
     }
   },
-  "generated_at": "2026-04-25T15:32:23.245085+00:00",
+  "generated_at": "2026-04-26T06:00:16.362117+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
