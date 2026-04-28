@@ -27316,6 +27316,15 @@
       "year": 2026
     },
     {
+      "date": "2026-04-24",
+      "hour": 16,
+      "name": "Imeni Kalinina",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18288684011",
+      "year": 2026
+    },
+    {
       "date": "2026-04-25",
       "hour": 7,
       "name": "34K\u00a0-\u00a0Sat\u00a025.04.2026",
@@ -51853,12 +51862,13 @@
         },
         "2026-04-24": {
           "activity_ids": [
-            "18233920561"
+            "18233920561",
+            "18288684011"
           ],
-          "count": 1,
-          "distance": 18495.7,
-          "elevation_gain": 53.0,
-          "moving_time": 5190.0
+          "count": 2,
+          "distance": 25367.7,
+          "elevation_gain": 169.0,
+          "moving_time": 5874.0
         },
         "2026-04-26": {
           "activity_ids": [
@@ -51991,7 +52001,7 @@
       }
     }
   },
-  "generated_at": "2026-04-28T06:23:29.344860+00:00",
+  "generated_at": "2026-04-28T09:22:44.504168+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",

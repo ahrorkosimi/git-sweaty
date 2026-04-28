@@ -39455,6 +39455,19 @@
     "year": 2026
   },
   {
+    "date": "2026-04-24",
+    "distance": 6872.0,
+    "elevation_gain": 116.0,
+    "id": "18288684011",
+    "moving_time": 684.0,
+    "name": "Imeni Kalinina",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-24T16:52:58Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
     "date": "2026-04-25",
     "distance": 34601.0,
     "elevation_gain": 1779.0,
