@@ -28124,6 +28124,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18340392454",
       "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 11,
+      "name": "11K\u00a0-\u00a0Sun\u00a003.05.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18355146880",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -53283,6 +53292,15 @@
           "distance": 7204.9,
           "elevation_gain": 20.1,
           "moving_time": 2683.0
+        },
+        "2026-05-03": {
+          "activity_ids": [
+            "18355146880"
+          ],
+          "count": 1,
+          "distance": 11012.0,
+          "elevation_gain": 37.0,
+          "moving_time": 3261.0
         }
       },
       "TrailRun": {
@@ -53435,7 +53453,7 @@
       }
     }
   },
-  "generated_at": "2026-05-03T06:19:53.808883+00:00",
+  "generated_at": "2026-05-03T08:47:42.284815+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
