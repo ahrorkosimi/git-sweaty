@@ -40727,5 +40727,18 @@
     "start_date_local": "2026-05-08T05:40:59Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 30443.0,
+    "elevation_gain": 360.0,
+    "id": "18423652001",
+    "moving_time": 7750.0,
+    "name": "30K\ud83d\udeb4\u200d\u2642\ufe0f\u00a0exploration\u00a0of\u00a0trail\u00a0around\u00a0the\u00a0city",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-08T11:37:46Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
