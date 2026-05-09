@@ -40740,5 +40740,18 @@
     "start_date_local": "2026-05-08T11:37:46Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 9411.0,
+    "elevation_gain": 34.0,
+    "id": "18438352994",
+    "moving_time": 3318.0,
+    "name": "9K - Sat 09.05.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-09T06:41:49Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
