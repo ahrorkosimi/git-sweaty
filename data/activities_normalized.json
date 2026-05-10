@@ -40753,5 +40753,18 @@
     "start_date_local": "2026-05-09T06:41:49Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 8035.0,
+    "elevation_gain": 934.0,
+    "id": "18449555515",
+    "moving_time": 8488.0,
+    "name": "8K\u00a0-\u00a0Sun\u00a010.05.2026",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-10T10:24:59Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
