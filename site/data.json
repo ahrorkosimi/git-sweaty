@@ -28268,6 +28268,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18488762702",
       "year": 2026
+    },
+    {
+      "date": "2026-05-14",
+      "hour": 5,
+      "name": "25K - Thu 14.05.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18499715283",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -53555,6 +53564,15 @@
           "distance": 15025.0,
           "elevation_gain": 28.0,
           "moving_time": 4079.0
+        },
+        "2026-05-14": {
+          "activity_ids": [
+            "18499715283"
+          ],
+          "count": 1,
+          "distance": 25194.9,
+          "elevation_gain": 400.0,
+          "moving_time": 7219.0
         }
       },
       "TrailRun": {
@@ -53707,7 +53725,7 @@
       }
     }
   },
-  "generated_at": "2026-05-13T17:08:35.212465+00:00",
+  "generated_at": "2026-05-14T06:39:41.954426+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
