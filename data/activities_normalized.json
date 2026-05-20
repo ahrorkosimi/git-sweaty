@@ -40922,5 +40922,18 @@
     "start_date_local": "2026-05-19T04:36:15Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 21366.1,
+    "elevation_gain": 117.0,
+    "id": "18577364542",
+    "moving_time": 6832.0,
+    "name": "21K - Wed 20.05.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-20T05:03:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
