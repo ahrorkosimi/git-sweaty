@@ -40961,5 +40961,31 @@
     "start_date_local": "2026-05-21T06:28:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 5017.2,
+    "elevation_gain": 64.4,
+    "id": "18604978530",
+    "moving_time": 2503.0,
+    "name": "5K - Thu 22.05.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-21T17:18:13Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 16080.2,
+    "elevation_gain": 78.0,
+    "id": "18605005331",
+    "moving_time": 4587.0,
+    "name": "16K - Fri 22.05.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-22T05:44:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
