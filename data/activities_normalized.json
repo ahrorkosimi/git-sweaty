@@ -41000,5 +41000,18 @@
     "start_date_local": "2026-05-23T04:12:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 25156.3,
+    "elevation_gain": 207.0,
+    "id": "18628910367",
+    "moving_time": 6863.0,
+    "name": "25K - Sun 24.05.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-24T05:12:05Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
