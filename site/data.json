@@ -28394,6 +28394,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18628910367",
       "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 12,
+      "name": "9K\u00a0-\u00a0Sun\u00a024.05.2026",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18637323965",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52174,6 +52183,15 @@
           "distance": 10373.0,
           "elevation_gain": 406.0,
           "moving_time": 8506.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "18637323965"
+          ],
+          "count": 1,
+          "distance": 9150.0,
+          "elevation_gain": 1044.0,
+          "moving_time": 10287.0
         }
       },
       "Ride": {
@@ -53951,7 +53969,7 @@
       }
     }
   },
-  "generated_at": "2026-05-24T15:55:08.798174+00:00",
+  "generated_at": "2026-05-25T08:09:16.792674+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
