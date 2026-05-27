@@ -28430,6 +28430,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18661252849",
       "year": 2026
+    },
+    {
+      "date": "2026-05-26",
+      "hour": 19,
+      "name": "Overnight camping above city in Chormaghzakon",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18675418536",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-27",
+      "hour": 5,
+      "name": "3K - Wed 27.05.2026",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18675421244",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52219,6 +52237,24 @@
           "distance": 9150.0,
           "elevation_gain": 1044.0,
           "moving_time": 10287.0
+        },
+        "2026-05-26": {
+          "activity_ids": [
+            "18675418536"
+          ],
+          "count": 1,
+          "distance": 1170.0,
+          "elevation_gain": 178.0,
+          "moving_time": 950.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "18675421244"
+          ],
+          "count": 1,
+          "distance": 3015.0,
+          "elevation_gain": 214.0,
+          "moving_time": 2683.0
         }
       },
       "Ride": {
@@ -54023,7 +54059,7 @@
       }
     }
   },
-  "generated_at": "2026-05-27T10:56:17.639486+00:00",
+  "generated_at": "2026-05-27T17:51:47.262113+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",

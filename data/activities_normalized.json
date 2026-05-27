@@ -41065,5 +41065,31 @@
     "start_date_local": "2026-05-26T11:27:40Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 1170.0,
+    "elevation_gain": 178.0,
+    "id": "18675418536",
+    "moving_time": 950.0,
+    "name": "Overnight camping above city in Chormaghzakon",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-26T19:05:13Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 3015.0,
+    "elevation_gain": 214.0,
+    "id": "18675421244",
+    "moving_time": 2683.0,
+    "name": "3K - Wed 27.05.2026",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-27T05:58:40Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
