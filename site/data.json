@@ -28448,6 +28448,15 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/18675421244",
       "year": 2026
+    },
+    {
+      "date": "2026-05-28",
+      "hour": 5,
+      "name": "21K - Thu 28.05.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18684340783",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -53907,6 +53916,15 @@
           "distance": 21137.0,
           "elevation_gain": 68.0,
           "moving_time": 6144.0
+        },
+        "2026-05-28": {
+          "activity_ids": [
+            "18684340783"
+          ],
+          "count": 1,
+          "distance": 21384.0,
+          "elevation_gain": 124.0,
+          "moving_time": 6206.0
         }
       },
       "TrailRun": {
@@ -54059,7 +54077,7 @@
       }
     }
   },
-  "generated_at": "2026-05-27T17:51:47.262113+00:00",
+  "generated_at": "2026-05-28T07:45:09.276710+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
