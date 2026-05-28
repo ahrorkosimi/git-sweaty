@@ -28457,6 +28457,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18684340783",
       "year": 2026
+    },
+    {
+      "date": "2026-05-28",
+      "hour": 11,
+      "name": "16K\ud83d\udeb4\u200d\u2642\ufe0fcommute",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18689845192",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52681,6 +52690,15 @@
           "distance": 17004.5,
           "elevation_gain": 85.0,
           "moving_time": 2928.0
+        },
+        "2026-05-28": {
+          "activity_ids": [
+            "18689845192"
+          ],
+          "count": 1,
+          "distance": 16802.0,
+          "elevation_gain": 87.0,
+          "moving_time": 2622.0
         }
       },
       "Run": {
@@ -54077,7 +54095,7 @@
       }
     }
   },
-  "generated_at": "2026-05-28T10:57:09.614623+00:00",
+  "generated_at": "2026-05-28T17:56:15.189954+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
