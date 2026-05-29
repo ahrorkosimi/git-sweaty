@@ -41117,5 +41117,18 @@
     "start_date_local": "2026-05-28T11:45:06Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 42227.0,
+    "elevation_gain": 1499.0,
+    "id": "18702505681",
+    "moving_time": 20453.0,
+    "name": "42K - Fri 29.05.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-29T11:12:49Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
