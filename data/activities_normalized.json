@@ -41143,5 +41143,18 @@
     "start_date_local": "2026-05-30T06:43:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 17095.2,
+    "elevation_gain": 45.0,
+    "id": "18723190811",
+    "moving_time": 4799.0,
+    "name": "17K - Sun 31.05.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-31T05:22:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
