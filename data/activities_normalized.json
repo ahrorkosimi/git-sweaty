@@ -41156,5 +41156,31 @@
     "start_date_local": "2026-05-31T05:22:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 5057.0,
+    "elevation_gain": 40.0,
+    "id": "18733438404",
+    "moving_time": 2329.0,
+    "name": "5K\u00a0-\u00a0Sun\u00a031.05.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-31T22:53:39Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 15008.0,
+    "elevation_gain": 36.0,
+    "id": "18736783487",
+    "moving_time": 4271.0,
+    "name": "15K\u00a0-\u00a0Mon\u00a001.06.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-01T06:04:43Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

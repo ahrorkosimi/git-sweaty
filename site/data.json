@@ -28493,6 +28493,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18723190811",
       "year": 2026
+    },
+    {
+      "date": "2026-05-31",
+      "hour": 22,
+      "name": "5K\u00a0-\u00a0Sun\u00a031.05.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18733438404",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-01",
+      "hour": 6,
+      "name": "15K\u00a0-\u00a0Mon\u00a001.06.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18736783487",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -53982,12 +54000,22 @@
         },
         "2026-05-31": {
           "activity_ids": [
-            "18723190811"
+            "18723190811",
+            "18733438404"
+          ],
+          "count": 2,
+          "distance": 22152.2,
+          "elevation_gain": 85.0,
+          "moving_time": 7128.0
+        },
+        "2026-06-01": {
+          "activity_ids": [
+            "18736783487"
           ],
           "count": 1,
-          "distance": 17095.2,
-          "elevation_gain": 45.0,
-          "moving_time": 4799.0
+          "distance": 15008.0,
+          "elevation_gain": 36.0,
+          "moving_time": 4271.0
         }
       },
       "TrailRun": {
@@ -54149,7 +54177,7 @@
       }
     }
   },
-  "generated_at": "2026-05-31T15:59:55.249776+00:00",
+  "generated_at": "2026-06-01T09:07:31.055891+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
