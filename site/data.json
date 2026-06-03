@@ -28520,6 +28520,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18750724307",
       "year": 2026
+    },
+    {
+      "date": "2026-06-03",
+      "hour": 5,
+      "name": "16K\u00a0-\u00a0Wed\u00a003.06.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18764804215",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -54034,6 +54043,15 @@
           "distance": 21227.8,
           "elevation_gain": 106.0,
           "moving_time": 5826.0
+        },
+        "2026-06-03": {
+          "activity_ids": [
+            "18764804215"
+          ],
+          "count": 1,
+          "distance": 16018.0,
+          "elevation_gain": 92.0,
+          "moving_time": 4955.0
         }
       },
       "TrailRun": {
@@ -54195,7 +54213,7 @@
       }
     }
   },
-  "generated_at": "2026-06-02T18:31:55.881908+00:00",
+  "generated_at": "2026-06-03T11:57:06.287233+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
