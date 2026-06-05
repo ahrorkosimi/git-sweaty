@@ -28547,6 +28547,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18793288029",
       "year": 2026
+    },
+    {
+      "date": "2026-06-05",
+      "hour": 16,
+      "name": "3K\u00a0-\u00a0Fri\u00a005.06.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18796216857",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -54082,12 +54091,13 @@
         },
         "2026-06-05": {
           "activity_ids": [
-            "18793288029"
+            "18793288029",
+            "18796216857"
           ],
-          "count": 1,
-          "distance": 13068.4,
-          "elevation_gain": 55.0,
-          "moving_time": 4066.0
+          "count": 2,
+          "distance": 16090.4,
+          "elevation_gain": 68.0,
+          "moving_time": 5402.0
         }
       },
       "TrailRun": {
@@ -54249,7 +54259,7 @@
       }
     }
   },
-  "generated_at": "2026-06-05T10:47:21.825869+00:00",
+  "generated_at": "2026-06-05T17:07:43.232832+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
