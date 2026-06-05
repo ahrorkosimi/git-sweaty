@@ -28538,6 +28538,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18779284662",
       "year": 2026
+    },
+    {
+      "date": "2026-06-05",
+      "hour": 5,
+      "name": "13K - Fri 05.06.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18793288029",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -54070,6 +54079,15 @@
           "distance": 15075.0,
           "elevation_gain": 78.0,
           "moving_time": 4646.0
+        },
+        "2026-06-05": {
+          "activity_ids": [
+            "18793288029"
+          ],
+          "count": 1,
+          "distance": 13068.4,
+          "elevation_gain": 55.0,
+          "moving_time": 4066.0
         }
       },
       "TrailRun": {
@@ -54231,7 +54249,7 @@
       }
     }
   },
-  "generated_at": "2026-06-04T08:10:15.486052+00:00",
+  "generated_at": "2026-06-05T07:57:13.049742+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",

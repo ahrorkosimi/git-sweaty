@@ -41221,5 +41221,18 @@
     "start_date_local": "2026-06-04T05:35:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 13068.4,
+    "elevation_gain": 55.0,
+    "id": "18793288029",
+    "moving_time": 4066.0,
+    "name": "13K - Fri 05.06.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-05T05:45:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
