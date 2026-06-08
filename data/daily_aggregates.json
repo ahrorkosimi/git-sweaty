@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T11:58:39.400709+00:00",
+  "generated_at": "2026-06-08T17:43:20.361104+00:00",
   "years": {
     "2017": {
       "Run": {
@@ -25560,6 +25560,17 @@
           "moving_time": 4947.0
         }
       },
+      "Swim": {
+        "2026-06-08": {
+          "activity_ids": [
+            "18839373562"
+          ],
+          "count": 1,
+          "distance": 1050.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2335.0
+        }
+      },
       "TrailRun": {
         "2026-01-02": {
           "activity_ids": [
@@ -25704,6 +25715,15 @@
           "distance": 42227.0,
           "elevation_gain": 1499.0,
           "moving_time": 20453.0
+        },
+        "2026-06-08": {
+          "activity_ids": [
+            "18839089415"
+          ],
+          "count": 1,
+          "distance": 26755.0,
+          "elevation_gain": 1692.0,
+          "moving_time": 16585.0
         }
       },
       "Walk": {
