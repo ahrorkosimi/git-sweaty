@@ -28592,6 +28592,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/18839373562",
       "year": 2026
+    },
+    {
+      "date": "2026-06-09",
+      "hour": 5,
+      "name": "11K - Tue 09.06.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18848407175",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -54152,6 +54161,15 @@
           "distance": 15029.0,
           "elevation_gain": 83.0,
           "moving_time": 4947.0
+        },
+        "2026-06-09": {
+          "activity_ids": [
+            "18848407175"
+          ],
+          "count": 1,
+          "distance": 11243.9,
+          "elevation_gain": 70.0,
+          "moving_time": 3469.0
         }
       },
       "Swim": {
@@ -54333,7 +54351,7 @@
       }
     }
   },
-  "generated_at": "2026-06-09T10:34:58.198296+00:00",
+  "generated_at": "2026-06-09T17:17:58.419763+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
