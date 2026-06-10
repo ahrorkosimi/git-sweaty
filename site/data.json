@@ -28601,6 +28601,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18848407175",
       "year": 2026
+    },
+    {
+      "date": "2026-06-10",
+      "hour": 5,
+      "name": "15K - Wed 10.06.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18863747147",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-10",
+      "hour": 18,
+      "name": "1km\ud83c\udfca\ud83c\udffc\u00a0Wed\u00a010.06.2026",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18865376202",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -54170,6 +54188,15 @@
           "distance": 11243.9,
           "elevation_gain": 70.0,
           "moving_time": 3469.0
+        },
+        "2026-06-10": {
+          "activity_ids": [
+            "18863747147"
+          ],
+          "count": 1,
+          "distance": 15081.7,
+          "elevation_gain": 98.0,
+          "moving_time": 4897.0
         }
       },
       "Swim": {
@@ -54181,6 +54208,15 @@
           "distance": 1050.0,
           "elevation_gain": 0.0,
           "moving_time": 2335.0
+        },
+        "2026-06-10": {
+          "activity_ids": [
+            "18865376202"
+          ],
+          "count": 1,
+          "distance": 1000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1908.0
         }
       },
       "TrailRun": {
@@ -54351,7 +54387,7 @@
       }
     }
   },
-  "generated_at": "2026-06-10T10:56:31.149558+00:00",
+  "generated_at": "2026-06-10T17:51:11.788757+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
