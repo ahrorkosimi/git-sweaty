@@ -41390,5 +41390,18 @@
     "start_date_local": "2026-06-13T06:11:39Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 6012.0,
+    "elevation_gain": 371.0,
+    "id": "18916749089",
+    "moving_time": 9023.0,
+    "name": "6K\u00a0-\u00a0Sun\u00a014.06.2026",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-14T09:19:38Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]

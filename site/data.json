@@ -28655,6 +28655,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18900948139",
       "year": 2026
+    },
+    {
+      "date": "2026-06-14",
+      "hour": 9,
+      "name": "6K\u00a0-\u00a0Sun\u00a014.06.2026",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18916749089",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52462,6 +52471,15 @@
           "distance": 3015.0,
           "elevation_gain": 214.0,
           "moving_time": 2683.0
+        },
+        "2026-06-14": {
+          "activity_ids": [
+            "18916749089"
+          ],
+          "count": 1,
+          "distance": 6012.0,
+          "elevation_gain": 371.0,
+          "moving_time": 9023.0
         }
       },
       "Ride": {
@@ -54459,7 +54477,7 @@
       }
     }
   },
-  "generated_at": "2026-06-14T10:25:23.089670+00:00",
+  "generated_at": "2026-06-14T16:16:12.717871+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
