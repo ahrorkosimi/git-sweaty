@@ -41403,5 +41403,18 @@
     "start_date_local": "2026-06-14T09:19:38Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 15009.0,
+    "elevation_gain": 30.0,
+    "id": "18924383737",
+    "moving_time": 4407.0,
+    "name": "15K\u00a0-\u00a0Mon\u00a015.06.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-15T05:55:12Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
