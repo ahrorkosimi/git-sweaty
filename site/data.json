@@ -28691,6 +28691,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/18930111346",
       "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 5,
+      "name": "21K - Tue 16.06.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18938729317",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -54323,6 +54332,15 @@
           "distance": 15009.0,
           "elevation_gain": 30.0,
           "moving_time": 4407.0
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "18938729317"
+          ],
+          "count": 1,
+          "distance": 21230.5,
+          "elevation_gain": 119.0,
+          "moving_time": 6381.0
         }
       },
       "Swim": {
@@ -54531,7 +54549,7 @@
       }
     }
   },
-  "generated_at": "2026-06-15T19:00:39.061139+00:00",
+  "generated_at": "2026-06-16T09:13:27.883899+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
