@@ -41455,5 +41455,44 @@
     "start_date_local": "2026-06-16T05:24:15Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 15178.9,
+    "elevation_gain": 61.0,
+    "id": "18963838953",
+    "moving_time": 4398.0,
+    "name": "15K - Wed 17.06.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-17T05:19:06Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 20028.0,
+    "elevation_gain": 144.0,
+    "id": "18963846585",
+    "moving_time": 3261.0,
+    "name": "20K\u00a0\ud83d\udeb4\u200d\u2642\ufe0f\u00a0commute",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-17T08:52:09Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 1100.0,
+    "elevation_gain": 0.0,
+    "id": "18963849517",
+    "moving_time": 1562.0,
+    "name": "1K \ud83c\udfcaswimming",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-17T18:14:23Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
