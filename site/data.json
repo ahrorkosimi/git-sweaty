@@ -28754,6 +28754,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18979899516",
       "year": 2026
+    },
+    {
+      "date": "2026-06-19",
+      "hour": 18,
+      "name": "1KM\u00a0\ud83c\udfca\ud83c\udffcfoam\u00a0assisted\u00a0swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18985385191",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -54487,6 +54496,15 @@
           "distance": 1100.0,
           "elevation_gain": 0.0,
           "moving_time": 1562.0
+        },
+        "2026-06-19": {
+          "activity_ids": [
+            "18985385191"
+          ],
+          "count": 1,
+          "distance": 1500.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2510.0
         }
       },
       "TrailRun": {
@@ -54657,7 +54675,7 @@
       }
     }
   },
-  "generated_at": "2026-06-19T11:24:17.037416+00:00",
+  "generated_at": "2026-06-19T17:11:56.557504+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
