@@ -41494,5 +41494,44 @@
     "start_date_local": "2026-06-17T18:14:23Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 6293.0,
+    "elevation_gain": 33.0,
+    "id": "18975170042",
+    "moving_time": 1659.0,
+    "name": "6K \ud83d\udeb4\ud83c\udffb\u200d\u2642\ufe0fin Khujand",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-18T17:49:19Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 6709.0,
+    "elevation_gain": 27.0,
+    "id": "18975279526",
+    "moving_time": 2334.0,
+    "name": "6K - Thu 18.06.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-18T22:30:54Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 50598.0,
+    "elevation_gain": 278.0,
+    "id": "18979899516",
+    "moving_time": 9165.0,
+    "name": "50K\u00a0\ud83d\udeb4\u200d\u2642\ufe0fwith\u00a0Khujand\u00a0team",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-19T04:38:53Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
