@@ -28763,6 +28763,24 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/18985385191",
       "year": 2026
+    },
+    {
+      "date": "2026-06-19",
+      "hour": 20,
+      "name": "15K - Fri 19.06.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18986842678",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 6,
+      "name": "5K\u00a0-\u00a0Sat\u00a020.06.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18991591749",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -54449,6 +54467,24 @@
           "distance": 6709.0,
           "elevation_gain": 27.0,
           "moving_time": 2334.0
+        },
+        "2026-06-19": {
+          "activity_ids": [
+            "18986842678"
+          ],
+          "count": 1,
+          "distance": 15100.2,
+          "elevation_gain": 74.0,
+          "moving_time": 4695.0
+        },
+        "2026-06-20": {
+          "activity_ids": [
+            "18991591749"
+          ],
+          "count": 1,
+          "distance": 5014.0,
+          "elevation_gain": 58.0,
+          "moving_time": 1563.0
         }
       },
       "Swim": {
@@ -54675,7 +54711,7 @@
       }
     }
   },
-  "generated_at": "2026-06-19T17:11:56.557504+00:00",
+  "generated_at": "2026-06-20T07:39:58.259496+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
