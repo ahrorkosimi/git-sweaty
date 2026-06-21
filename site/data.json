@@ -28781,6 +28781,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18991591749",
       "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 17,
+      "name": "15K\u00a0-\u00a0Sun\u00a021.06.2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19012488051",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -54485,6 +54494,15 @@
           "distance": 5014.0,
           "elevation_gain": 58.0,
           "moving_time": 1563.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19012488051"
+          ],
+          "count": 1,
+          "distance": 15026.0,
+          "elevation_gain": 90.0,
+          "moving_time": 5014.0
         }
       },
       "Swim": {
@@ -54711,7 +54729,7 @@
       }
     }
   },
-  "generated_at": "2026-06-21T10:29:59.768104+00:00",
+  "generated_at": "2026-06-21T16:25:08.292061+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35246980",
   "repo": "ahrorkosimi/git-sweaty",
