@@ -41611,5 +41611,18 @@
     "start_date_local": "2026-06-22T10:37:47Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 1150.0,
+    "elevation_gain": 0.0,
+    "id": "19023523179",
+    "moving_time": 1791.0,
+    "name": "1150m\u00a0foam\u00a0assisted\u00a0\ud83c\udfca\ud83c\udffc",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-22T18:02:19Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
