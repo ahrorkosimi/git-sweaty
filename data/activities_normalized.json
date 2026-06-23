@@ -41624,5 +41624,18 @@
     "start_date_local": "2026-06-22T18:02:19Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 25522.2,
+    "elevation_gain": 367.0,
+    "id": "19035332838",
+    "moving_time": 7411.0,
+    "name": "25K - Tue 23.06.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-23T05:11:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
