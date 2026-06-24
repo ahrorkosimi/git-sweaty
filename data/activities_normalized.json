@@ -41650,5 +41650,18 @@
     "start_date_local": "2026-06-24T05:12:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 2000.0,
+    "elevation_gain": 0.0,
+    "id": "19050451999",
+    "moving_time": 3165.0,
+    "name": "2K \ud83c\udfca\ud83c\udffbswimming",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-24T18:07:23Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
