@@ -41663,5 +41663,31 @@
     "start_date_local": "2026-06-24T18:07:23Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 5046.0,
+    "elevation_gain": 41.0,
+    "id": "19061813910",
+    "moving_time": 2271.0,
+    "name": "5K\u00a0-\u00a0Thu\u00a025.06.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-25T06:21:13Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 21367.2,
+    "elevation_gain": 134.1,
+    "id": "19061853068",
+    "moving_time": 6838.0,
+    "name": "21K - Thu 25.06.2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-25T09:10:30Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
