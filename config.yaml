@@ -1,5 +1,5 @@
 # Base configuration. Put secrets in config.local.yaml (ignored by git).
-source: "strava"  # "strava" or "garmin"
+source: "garmin"  # "strava" or "garmin"
 
 strava:
   client_id: ""
@@ -13,7 +13,7 @@ garmin:
   email: ""
   password: ""
   profile_url: "" # optional dashboard header profile link
-  include_activity_urls: false # when true, tooltip details can show links to individual Garmin activities
+  include_activity_urls: true # when true, tooltip details can show links to individual Garmin activities
   strict_token_only: false # when true, only token_store_b64 is used (no email/password fallback)
 
 sync:
@@ -93,8 +93,8 @@ activities:
   type_aliases: {}          # optional explicit remaps; keep empty for exact source naming
 
 units:
-  distance: "mi"   # "mi" or "km"
-  elevation: "ft"  # "ft" or "m"
+  distance: "km"   # "mi" or "km"
+  elevation: "m"  # "ft" or "m"
 
 heatmaps:
-  week_start: "sunday" # "sunday" or "monday"
+  week_start: "monday" # "sunday" or "monday"

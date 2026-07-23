@@ -4,7 +4,47 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="format-detection" content="telephone=no,email=no,address=no,date=no" />
-    <title>Night Runner's Activity Heatmaps</title>
+    <title>Ettore's Activity Heatmaps</title>
+    <meta
+      name="description"
+      content="Turn Strava and Garmin activities into an interactive GitHub-style heatmap dashboard with automated daily updates."
+    />
+    <meta name="robots" content="index,follow,max-image-preview:large" />
+    <meta name="theme-color" content="#1e293b" />
+    <title>git-sweaty | Strava &amp; Garmin Activity Heatmaps</title>
+    <!-- Relative canonical keeps template forks self-referencing on their own deployed URL. -->
+    <link rel="canonical" href="./" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="git-sweaty" />
+    <meta property="og:title" content="git-sweaty | Strava &amp; Garmin Activity Heatmaps" />
+    <meta
+      property="og:description"
+      content="Turn Strava and Garmin activities into an interactive GitHub-style heatmap dashboard with automated daily updates."
+    />
+    <meta property="og:image" content="social-preview.png" />
+    <meta
+      property="og:image:alt"
+      content="git-sweaty social preview with the heatmap logo and workout dashboard tagline."
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="git-sweaty | Strava &amp; Garmin Activity Heatmaps" />
+    <meta
+      name="twitter:description"
+      content="Turn Strava and Garmin activities into an interactive GitHub-style heatmap dashboard with automated daily updates."
+    />
+    <meta name="twitter:image" content="social-preview.png" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "git-sweaty Activity Heatmap Dashboard",
+        "applicationCategory": "HealthApplication",
+        "operatingSystem": "Any",
+        "inLanguage": "en",
+        "isAccessibleForFree": true,
+        "description": "Turn Strava and Garmin activities into an interactive GitHub-style heatmap dashboard with automated daily updates."
+      }
+    </script>
     <link
       rel="icon"
       href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%A5%B5%3C/text%3E%3C/svg%3E"
@@ -1056,7 +1096,13 @@
         white-space: nowrap;
       }
 
-      @media (min-width: 901px) {
+      @media (hover: hover) and (pointer: fine) {
+        body {
+          zoom: 0.8;
+        }
+      }
+
+      @media (min-width: 901px), (hover: hover) and (pointer: fine) and (min-width: 721px) {
         .card.more-stats:not(.more-stats-stacked) {
           overflow-x: hidden;
         }
@@ -1066,7 +1112,7 @@
         }
       }
 
-      @media (min-width: 1200px) {
+      @media (min-width: 1200px), (hover: hover) and (pointer: fine) and (min-width: 960px) {
         .summary.summary-center-two-types .summary-type-card:nth-last-child(2) {
           grid-column: 2;
         }
@@ -1403,7 +1449,7 @@
         }
       }
 
-      @media (min-width: 901px) {
+      @media (min-width: 901px), (hover: hover) and (pointer: fine) and (min-width: 721px) {
         body {
           padding: 24px 20px 28px;
         }
@@ -1574,7 +1620,7 @@
         }
       }
 
-      @media (min-width: 901px) and (max-width: 1155px) {
+      @media (min-width: 901px) and (max-width: 1155px) and (hover: none), (min-width: 901px) and (max-width: 1155px) and (pointer: coarse), (hover: hover) and (pointer: fine) and (min-width: 721px) and (max-width: 924px) {
         header {
           --mobile-header-padding-inline: var(--space-7);
           --mobile-stack-gap: var(--space-3);
@@ -1758,7 +1804,7 @@
         }
       }
 
-      @media (max-width: 900px) {
+      @media (max-width: 900px) and (hover: none), (max-width: 900px) and (pointer: coarse), (max-width: 720px) and (hover: hover) and (pointer: fine) {
         :root {
           --labeled-card-padding-top: 10px;
           --labeled-card-title-gap: 4px;
@@ -1975,7 +2021,7 @@
 
       }
 
-      @media (max-width: 720px) {
+      @media (max-width: 720px) and (hover: none), (max-width: 720px) and (pointer: coarse), (max-width: 576px) and (hover: hover) and (pointer: fine) {
         :root {
           --cell: 10px;
           --gap: 2px;
@@ -2034,7 +2080,7 @@
         }
       }
 
-      @media (max-width: 375px) {
+      @media (max-width: 375px) and (hover: none), (max-width: 375px) and (pointer: coarse), (max-width: 300px) and (hover: hover) and (pointer: fine) {
         :root {
           --cell: 9px;
           --gap: 2px;
@@ -2113,14 +2159,6 @@
 
       <div id="summary" class="summary"></div>
       <div id="heatmaps" class="heatmaps"></div>
-      <footer class="dashboard-footer">
-        <span id="footerHostedPrefix">
-          Hosted at
-          <a class="dashboard-footer-link" id="footerHostedLink" href="https://github.com">github.com</a>,
-        </span>
-        <span id="footerPoweredLabel">powered</span> by
-        <a class="dashboard-footer-link" id="footerPoweredLink" href="https://github.com/aspain/git-sweaty">aspain/git-sweaty</a>.
-      </footer>
     </div>
 
     <div id="tooltip" class="tooltip"></div>
