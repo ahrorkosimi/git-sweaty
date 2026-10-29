@@ -14,7 +14,8 @@ on:
         options:
           - strava
           - garmin
-        default: strava
+          - intervals
+        default: intervals
       update_readme_link:
         description: "Update README dashboard URL in this fork"
         required: false
@@ -62,10 +63,10 @@ jobs:
           WORKFLOW_SOURCE: ${{ github.event_name == 'workflow_dispatch' && inputs.source || '' }}
           DASHBOARD_SOURCE: ${{ vars.DASHBOARD_SOURCE }}
         run: |
-          source="${WORKFLOW_SOURCE:-${DASHBOARD_SOURCE:-strava}}"
+          source="${WORKFLOW_SOURCE:-${DASHBOARD_SOURCE:-intervals}}"
           source="$(echo "${source}" | tr '[:upper:]' '[:lower:]' | xargs)"
-          if [[ "${source}" != "strava" && "${source}" != "garmin" ]]; then
-            echo "Unsupported source '${source}'. Expected strava or garmin."
+          if [[ "${source}" != "strava" && "${source}" != "garmin" && "${source}" != "intervals" ]]; then
+            echo "Unsupported source '${source}'. Expected strava, garmin, or intervals."
             exit 1
           fi
           echo "SYNC_SOURCE=${source}" >> "$GITHUB_ENV"
@@ -80,6 +81,7 @@ jobs:
           GARMIN_TOKENS_B64: ${{ secrets.GARMIN_TOKENS_B64 }}
           GARMIN_EMAIL: ${{ secrets.GARMIN_EMAIL }}
           GARMIN_PASSWORD: ${{ secrets.GARMIN_PASSWORD }}
+          INTERVALS_ICU_API_KEY: ${{ secrets.INTERVALS_ICU_API_KEY }}
         run: |
           missing=()
 
@@ -91,8 +93,10 @@ jobs:
             if [[ -z "$GARMIN_TOKENS_B64" && ( -z "$GARMIN_EMAIL" || -z "$GARMIN_PASSWORD" ) ]]; then
               missing+=("GARMIN_TOKENS_B64 or GARMIN_EMAIL+GARMIN_PASSWORD")
             fi
+          elif [[ "${SYNC_SOURCE}" == "intervals" ]]; then
+            [[ -n "$INTERVALS_ICU_API_KEY" ]] || missing+=("INTERVALS_ICU_API_KEY")
           else
-            missing+=("SYNC_SOURCE must be strava or garmin")
+            missing+=("SYNC_SOURCE must be strava, garmin, or intervals")
           fi
 
           if [ ${#missing[@]} -gt 0 ]; then
@@ -136,7 +140,7 @@ jobs:
             if [[ "${normalized_links_value}" == "1" || "${normalized_links_value}" == "true" || "${normalized_links_value}" == "yes" || "${normalized_links_value}" == "y" || "${normalized_links_value}" == "on" ]]; then
               echo "  include_activity_urls: true" >> config.local.yaml
             fi
-          else
+          elif [[ "${SYNC_SOURCE}" == "garmin" ]]; then
             cat <<CONFIG >> config.local.yaml
           garmin:
             token_store_b64: "${GARMIN_TOKENS_B64}"
@@ -150,6 +154,8 @@ jobs:
             if [[ "${normalized_links_value}" == "1" || "${normalized_links_value}" == "true" || "${normalized_links_value}" == "yes" || "${normalized_links_value}" == "y" || "${normalized_links_value}" == "on" ]]; then
               echo "  include_activity_urls: true" >> config.local.yaml
             fi
+          elif [[ "${SYNC_SOURCE}" == "intervals" ]]; then
+            echo "Intervals.icu source selected; API key will be provided via environment."
           fi
 
           if [[ -n "${DASHBOARD_DISTANCE_UNIT}" || -n "${DASHBOARD_ELEVATION_UNIT}" ]]; then
@@ -213,6 +219,7 @@ jobs:
             rm -f data/backfill_state.json
             rm -f data/backfill_state_strava.json
             rm -f data/backfill_state_garmin.json
+            rm -f data/backfill_state_intervals.json
             rm -f data/last_sync_summary.json
             rm -f data/last_sync_summary.txt
             rm -f data/source_state.json
@@ -225,6 +232,7 @@ jobs:
           DASHBOARD_REPO: ${{ vars.DASHBOARD_REPO }}
           GITHUB_TOKEN: ${{ github.token }}
           UPDATE_README_LINK: ${{ github.event_name != 'workflow_dispatch' || inputs.update_readme_link }}
+          INTERVALS_ICU_API_KEY: ${{ secrets.INTERVALS_ICU_API_KEY }}
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
@@ -353,6 +361,7 @@ jobs:
           fi
 
           find "${data_worktree}" -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} +
+
           mkdir -p "${data_worktree}/site"
           cp -R data "${data_worktree}/data"
           cp site/data.json "${data_worktree}/site/data.json"
