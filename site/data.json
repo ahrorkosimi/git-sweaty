@@ -27768,6 +27768,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-11-25",
+      "hour": 13,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -56010,6 +56017,15 @@
           "distance": 10998.95,
           "elevation_gain": 91.0,
           "moving_time": 1870.0
+        },
+        "2026-11-25": {
+          "activity_ids": [
+            "i214556098"
+          ],
+          "count": 1,
+          "distance": 17363.32,
+          "elevation_gain": 107.0,
+          "moving_time": 3307.0
         }
       },
       "Run": {
@@ -58463,7 +58479,7 @@
       }
     }
   },
-  "generated_at": "2026-11-25T13:39:23.850725+00:00",
+  "generated_at": "2026-11-25T17:49:34.700207+00:00",
   "other_bucket": "OtherSports",
   "repo": "ahrorkosimi/git-sweaty",
   "source": "intervals",

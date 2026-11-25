@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T13:39:23.799009+00:00",
+  "generated_at": "2026-11-25T17:49:34.665683+00:00",
   "years": {
     "2017": {
       "HighIntensityIntervalTraining": {
@@ -28240,6 +28240,15 @@
           "distance": 10998.95,
           "elevation_gain": 91.0,
           "moving_time": 1870.0
+        },
+        "2026-11-25": {
+          "activity_ids": [
+            "i214556098"
+          ],
+          "count": 1,
+          "distance": 17363.32,
+          "elevation_gain": 107.0,
+          "moving_time": 3307.0
         }
       },
       "Run": {
