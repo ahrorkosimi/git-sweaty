@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T00:29:56.260123+00:00",
+  "generated_at": "2026-11-26T13:15:33.917094+00:00",
   "years": {
     "2017": {
       "HighIntensityIntervalTraining": {
@@ -28249,6 +28249,15 @@
           "distance": 17363.32,
           "elevation_gain": 107.0,
           "moving_time": 3307.0
+        },
+        "2026-11-26": {
+          "activity_ids": [
+            "i214797661"
+          ],
+          "count": 1,
+          "distance": 11.28,
+          "elevation_gain": 2.0,
+          "moving_time": 158.0
         }
       },
       "Run": {
@@ -30117,6 +30126,15 @@
           "distance": 6162.32,
           "elevation_gain": 52.09192,
           "moving_time": 2147.0
+        },
+        "2026-11-26": {
+          "activity_ids": [
+            "i214929719"
+          ],
+          "count": 1,
+          "distance": 5150.95,
+          "elevation_gain": 36.937866,
+          "moving_time": 2404.0
         }
       },
       "Swim": {
