@@ -35738,6 +35738,15 @@
       "type": "Ride",
       "url": "https://intervals.icu/activities/i215307221",
       "year": 2026
+    },
+    {
+      "date": "2026-11-27",
+      "hour": 17,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://intervals.icu/activities/i215331919",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -65884,6 +65893,15 @@
           "distance": 5150.95,
           "elevation_gain": 36.937866,
           "moving_time": 2404.0
+        },
+        "2026-11-27": {
+          "activity_ids": [
+            "i215331919"
+          ],
+          "count": 1,
+          "distance": 11703.28,
+          "elevation_gain": 68.085144,
+          "moving_time": 3658.0
         }
       },
       "Swim": {
@@ -66469,7 +66487,7 @@
       }
     }
   },
-  "generated_at": "2026-11-27T13:13:18.371945+00:00",
+  "generated_at": "2026-11-27T17:15:55.349143+00:00",
   "other_bucket": "OtherSports",
   "repo": "ahrorkosimi/git-sweaty",
   "source": "intervals",

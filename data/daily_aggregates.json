@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T13:13:18.329611+00:00",
+  "generated_at": "2026-11-27T17:15:55.309862+00:00",
   "years": {
     "2017": {
       "HighIntensityIntervalTraining": {
@@ -30144,6 +30144,15 @@
           "distance": 5150.95,
           "elevation_gain": 36.937866,
           "moving_time": 2404.0
+        },
+        "2026-11-27": {
+          "activity_ids": [
+            "i215331919"
+          ],
+          "count": 1,
+          "distance": 11703.28,
+          "elevation_gain": 68.085144,
+          "moving_time": 3658.0
         }
       },
       "Swim": {
