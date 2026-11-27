@@ -35729,6 +35729,15 @@
       "type": "Run",
       "url": "https://intervals.icu/activities/i214929719",
       "year": 2026
+    },
+    {
+      "date": "2026-11-27",
+      "hour": 14,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://intervals.icu/activities/i215307221",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -63989,6 +63998,15 @@
           "distance": 11.28,
           "elevation_gain": 2.0,
           "moving_time": 158.0
+        },
+        "2026-11-27": {
+          "activity_ids": [
+            "i215307221"
+          ],
+          "count": 1,
+          "distance": 17010.93,
+          "elevation_gain": 89.0,
+          "moving_time": 2714.0
         }
       },
       "Run": {
@@ -66451,7 +66469,7 @@
       }
     }
   },
-  "generated_at": "2026-11-26T23:24:23.736539+00:00",
+  "generated_at": "2026-11-27T13:13:18.371945+00:00",
   "other_bucket": "OtherSports",
   "repo": "ahrorkosimi/git-sweaty",
   "source": "intervals",
